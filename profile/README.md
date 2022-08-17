@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-+  [DOCUMENTAÇÃO E GOVERNANÇA](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "DOCUMENTAÇÃO E GOVERNANÇA")
++  🙋‍♀️ [NOSSO MODELO DE DOCUMENTAÇÃO E GOVERNANÇA](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "DOCUMENTAÇÃO E GOVERNANÇA")
+##
++  👩‍💻 [PRINCIPAIS BIBLIOTECAS UTILIZADAS NO PYTHON](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "BIBLIOTECAS PYTHON")
+##
++  🙋‍♀️ [NOSSO MODELO DE PREPARAÇÃO DE MÁQUINAS VIRTUAIS](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "MAQUINAS VIRTUAIS")
+##
++  👩‍💻 [SISTEMAS QUE JA POSSUEM USUARIO IMPESSOAL RPA](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "USUARIOS RPA")
+##
++  🙋‍♀️ [SISTEMAS NAO AUTORIZADOS UTILIZAR RPA](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao "SISTEMAS BLOQUEADOS PARA RPA, PELO CAS")
+##
++  🧙 [#DICAS - COMO UTILIZAR CREDENCIAIS EM VARIAVEIS AMBIENTE](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao)
+##
++  🧙 [#DICAS - EXEMPLOS DE USO DA BIBLIOTECA PANDAS](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao)
+##
++  🧙 [#DICAS - EXEMPLOS DE USO DA BIBLIOTECA SELENIUM](https://github.com/devsicrediuniaoprsp/001-Governanca-Documentacao)
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
