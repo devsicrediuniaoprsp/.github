@@ -1,3 +1,0 @@
-# LINK SOBRE GOVERNANÇA E DOCUMENTAÇÃO
-##
-# LINK SOBRE aaaaaaaaaaaaaaaaa
